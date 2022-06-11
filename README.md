@@ -19,35 +19,34 @@ Sort by join time
 [![](Image/CMBCCN.png)](https://osu.ppy.sh/users/13255728)
 [![](Image/SYCBCN.png)](https://osu.ppy.sh/users/5844899)
 [![](Image/BOSHCN.png)](https://osu.ppy.sh/users/17335266)
-
 [![](Image/COBCCN.png)](https://osu.ppy.sh/users/17030076)
 [![](Image/WIHBHK.png)](https://osu.ppy.sh/users/9392848)
 [![](Image/CBXMCN.png)](https://osu.ppy.sh/users/8012734)
 [![](Image/SMBCJP.png)](https://osu.ppy.sh/users/2481197)
 [![](Image/PSBCCN.png)](https://osu.ppy.sh/users/12956332)
-
 [![](Image/BKCHHK.png)](https://osu.ppy.sh/users/14817468)
 [![](Image/ICBCTW.png)](https://osu.ppy.sh/users/8693179)
 [![](Image/MAZEUS.png)](https://osu.ppy.sh/users/8692802)
 [![](Image/CIBBMY.png)](https://osu.ppy.sh/users/9830401)
 [![](Image/HSBCHK.png)](https://osu.ppy.sh/users/2699015)
-
 [![](Image/MHCBJP.png)](https://osu.ppy.sh/users/20040607)
 [![](Image/BOTKJP.png)](https://osu.ppy.sh/users/24004891)
 [![](Image/GDRCCN.png)](https://osu.ppy.sh/users/11715204)
 [![](Image/DEUTDE.png)](https://osu.ppy.sh/users/4734497)
 [![](Image/PCBCCN.png)](https://osu.ppy.sh/users/17159216)
-
 [![](Image/CHASUS.png)](https://osu.ppy.sh/users/10479369)
 [![](Image/TCBCJP.png)](https://osu.ppy.sh/users/19217915)
 [![](Image/VTBRRU.png)](https://osu.ppy.sh/users/15091523)
 [![](Image/SOBKJP.png)](https://osu.ppy.sh/users/13184288)
 [![](Image/PKMBJP.png)](https://osu.ppy.sh/users/15436106)
-
 [![](Image/GZCBCN.png)](https://osu.ppy.sh/users/15525823)
 [![](Image/QCCBCN.png)](https://osu.ppy.sh/users/16158742)
 [![](Image/BHFBDE.png)](https://osu.ppy.sh/users/3550729)
 [![](Image/ABOCCN.png)](https://osu.ppy.sh/users/14445292)
+[![](Image/WEBCCN.png)](https://osu.ppy.sh/users/4313716)
+[![](Image/ICBKCN.png)](https://osu.ppy.sh/users/1759858)
+[![](Image/GDRCCN.png)](https://osu.ppy.sh/users/2066337)
+[![](Image/ZJCBCN.png)](https://osu.ppy.sh/users/14152434)
 
 ### List of members
 
@@ -82,6 +81,10 @@ Sort by join time
 | [AuroraE](https://osu.ppy.sh/users/16158742) | [Bank of Qingdao](https://osu.ppy.sh/users/16158742) |
 | [Trinoline](https://osu.ppy.sh/users/3550729) | [ODDO BHF](https://en.wikipedia.org/wiki/ODDO_BHF) |
 | [__-](https://osu.ppy.sh/users/14445292) | [Agricultural Bank of China](https://en.wikipedia.org/wiki/Agricultural_Bank_of_China) |
+| [HDMI](https://osu.ppy.sh/users/4313716) | [WeBank Co., Ltd.](https://zh.wikipedia.org/wiki/%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C) |
+| [MDarkSanyo](https://osu.ppy.sh/users/1759858) | [Industrial and Commercial Bank of China Limited](https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China) |
+| [Flowerbell](https://osu.ppy.sh/users/2066337) | [Guangzhou Rural Commercial Bank](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%86%9C%E6%9D%91%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C) |
+| [Les Fleurs](https://osu.ppy.sh/users/14152434) | [China Zheshang Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%B5%99%E5%95%86%E9%93%B6%E8%A1%8C) |
 
 ### Profile BBCode link-in
 

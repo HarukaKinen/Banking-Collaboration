@@ -74,11 +74,6 @@ Sort by join time
 | [Dana Iclucia](https://osu.ppy.sh/users/13184288) | [SoftBank Group Corp.](https://en.wikipedia.org/wiki/SoftBank_Group)[^3] |
 | [mike233333](https://osu.ppy.sh/users/15436106) | [Pokémon Bank](https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon#Pok%C3%A9mon_Bank)[^4] |
 
-[^1]: Maze Bank of Los Santos is a fictional bank in Grand Theft Auto V.
-[^2]: Tokyo Chuo Banking Corporation is a fictional bank in [Hanzawa Naoki](https://en.wikipedia.org/wiki/Hanzawa_Naoki).
-[^3]: SoftBank is not a Bank. It's a mobile operator in Japan.
-[^4]: The Pokémon Bank is a Nintendo 3DS application that allows players to store their Pokémon on the Internet between multiple Pokémon games.
-
 ### Profile BBCode link-in
 
 ```bbcode
@@ -102,3 +97,8 @@ Private message [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) in osu!
 ---
 
 ### Footnote
+
+[^1]: Maze Bank of Los Santos is a fictional bank in Grand Theft Auto V.
+[^2]: Tokyo Chuo Banking Corporation is a fictional bank in [Hanzawa Naoki](https://en.wikipedia.org/wiki/Hanzawa_Naoki).
+[^3]: SoftBank is not a Bank. It's a mobile operator in Japan.
+[^4]: The Pokémon Bank is a Nintendo 3DS application that allows players to store their Pokémon on the Internet between multiple Pokémon games.

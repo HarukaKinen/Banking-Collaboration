@@ -4,7 +4,7 @@ a Banking Collab project for osu! player
 
 ## Disclaimer
 
-This is a community project. Any player mentioned below **is not** associated with any of the banks mentioned and **no one** is employee of them
+This is a community project. Any player mentioned below **is not** associated with any of the banks or companies and **no one** is employee of them
 
 "osu!" is a trademark of ppy Pty Ltd. Any of the banks mentioned **is not affiliated** with ppy Pty Ltd in any way.
 

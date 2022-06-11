@@ -57,7 +57,7 @@ Sort by join time
 | [ywwuyi](https://osu.ppy.sh/users/2699015) | [The Hongkong and Shanghai Banking Corporation Limited](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%B5%B7%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C) |
 | [\[GS\]hina](https://osu.ppy.sh/users/20040607) | [Mizuho Bank, Ltd.](https://en.wikipedia.org/wiki/Mizuho_Bank) |
 | [Kevin0036](https://osu.ppy.sh/users/24004891) | [MUFG Bank Ltd.](https://en.wikipedia.org/wiki/MUFG_Bank)
-| [Sakurai_Shiyi](https://osu.ppy.sh/users/11715204) | [广东省农村信用社联合社](http://www.gdrcu.com/) |
+| [Sakurai_Shiyi](https://osu.ppy.sh/users/11715204) | [Guangdong Rural Credit Union](http://www.gdrcu.com/) |
 | [feifeiis](https://osu.ppy.sh/users/4734497) | [Deutsche Bank AG](https://en.wikipedia.org/wiki/Deutsche_Bank) |
 
 ### Profile BBCode link-in

@@ -1,4 +1,4 @@
-a Banking Collab project for osu! player
+A Banking Collab project for osu! player
 
 ![](Image/title.gif)
 

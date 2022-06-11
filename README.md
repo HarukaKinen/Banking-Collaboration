@@ -46,6 +46,7 @@ Sort by join time
 
 [![](Image/GZCBCN.png)](https://osu.ppy.sh/users/15525823)
 [![](Image/QCCBCN.png)](https://osu.ppy.sh/users/16158742)
+[![](Image/BHFBDE.png)](https://osu.ppy.sh/users/3550729)
 
 ### List of members
 
@@ -78,6 +79,7 @@ Sort by join time
 | [mike233333](https://osu.ppy.sh/users/15436106) | [Pokémon Bank](https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon#Pok%C3%A9mon_Bank)[^4] |
 | [kukupa](https://osu.ppy.sh/users/15525823) | [Bank of Guangzhou](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E9%93%B6%E8%A1%8C) |
 | [AuroraE](https://osu.ppy.sh/users/16158742) | [Bank of Qingdao](https://osu.ppy.sh/users/16158742)
+| [Trinoline](https://osu.ppy.sh/users/3550729) | [ODDO BHF](https://en.wikipedia.org/wiki/ODDO_BHF)
 
 ### Profile BBCode link-in
 

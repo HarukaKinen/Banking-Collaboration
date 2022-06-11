@@ -44,6 +44,8 @@ Sort by join time
 [![](Image/SOBKJP.png)](https://osu.ppy.sh/users/13184288)
 [![](Image/PKMBJP.png)](https://osu.ppy.sh/users/15436106)
 
+[![](Image/GZCBCN.png)](https://osu.ppy.sh/users/15525823)
+
 ### List of members
 
 | Player | Bank |
@@ -73,6 +75,7 @@ Sort by join time
 | [SugerSakiE](https://osu.ppy.sh/users/15091523) | [VTB BANK (PJSC)](https://en.wikipedia.org/wiki/VTB_Bank) |
 | [Dana Iclucia](https://osu.ppy.sh/users/13184288) | [SoftBank Group Corp.](https://en.wikipedia.org/wiki/SoftBank_Group)[^3] |
 | [mike233333](https://osu.ppy.sh/users/15436106) | [Pokémon Bank](https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon#Pok%C3%A9mon_Bank)[^4] |
+| [kukupa](https://osu.ppy.sh/users/15525823) | [Bank of Guangzhou](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E9%93%B6%E8%A1%8C) |
 
 ### Profile BBCode link-in
 

@@ -47,6 +47,7 @@ Sort by join time
 [![](Image/GZCBCN.png)](https://osu.ppy.sh/users/15525823)
 [![](Image/QCCBCN.png)](https://osu.ppy.sh/users/16158742)
 [![](Image/BHFBDE.png)](https://osu.ppy.sh/users/3550729)
+[![](Image/ABOCCN.png)](https://osu.ppy.sh/users/14445292)
 
 ### List of members
 
@@ -78,8 +79,9 @@ Sort by join time
 | [Dana Iclucia](https://osu.ppy.sh/users/13184288) | [SoftBank Group Corp.](https://en.wikipedia.org/wiki/SoftBank_Group)[^3] |
 | [mike233333](https://osu.ppy.sh/users/15436106) | [Pokémon Bank](https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon#Pok%C3%A9mon_Bank)[^4] |
 | [kukupa](https://osu.ppy.sh/users/15525823) | [Bank of Guangzhou](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E9%93%B6%E8%A1%8C) |
-| [AuroraE](https://osu.ppy.sh/users/16158742) | [Bank of Qingdao](https://osu.ppy.sh/users/16158742)
-| [Trinoline](https://osu.ppy.sh/users/3550729) | [ODDO BHF](https://en.wikipedia.org/wiki/ODDO_BHF)
+| [AuroraE](https://osu.ppy.sh/users/16158742) | [Bank of Qingdao](https://osu.ppy.sh/users/16158742) |
+| [Trinoline](https://osu.ppy.sh/users/3550729) | [ODDO BHF](https://en.wikipedia.org/wiki/ODDO_BHF) |
+| [__-](https://osu.ppy.sh/users/14445292) | [Agricultural Bank of China](https://en.wikipedia.org/wiki/Agricultural_Bank_of_China) |
 
 ### Profile BBCode link-in
 

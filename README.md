@@ -45,7 +45,7 @@ Sort by join time
 [![](Image/ABOCCN.png)](https://osu.ppy.sh/users/14445292)
 [![](Image/WEBCCN.png)](https://osu.ppy.sh/users/4313716)
 [![](Image/ICBKCN.png)](https://osu.ppy.sh/users/1759858)
-[![](Image/GDRCCN.png)](https://osu.ppy.sh/users/2066337)
+[![](Image/GZRCCN.png)](https://osu.ppy.sh/users/2066337)
 [![](Image/ZJCBCN.png)](https://osu.ppy.sh/users/14152434)
 
 ### List of members

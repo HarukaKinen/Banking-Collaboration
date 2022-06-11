@@ -41,6 +41,7 @@ Sort by join time
 [![](Image/CHASUS.png)](https://osu.ppy.sh/users/10479369)
 [![](Image/TCBCJP.png)](https://osu.ppy.sh/users/19217915)
 [![](Image/VTBRRU.png)](https://osu.ppy.sh/users/15091523)
+[![](Image/SOBKJP.png)](https://osu.ppy.sh/users/13184288)
 
 ### List of members
 
@@ -69,9 +70,11 @@ Sort by join time
 | [OsmiumD](https://osu.ppy.sh/users/10479369) | [JPMorgan Chase Bank, N.A.](https://en.wikipedia.org/wiki/Chase_Bank)
 | [SnowyNight](https://osu.ppy.sh/users/19217915) | Tokyo Chuo Banking Corporation[^2] |
 | [SugerSakiE](https://osu.ppy.sh/users/15091523) | [VTB BANK (PJSC)](https://en.wikipedia.org/wiki/VTB_Bank) |
+| [Dana Iclucia](https://osu.ppy.sh/users/13184288) | [SoftBank Group Corp.](https://en.wikipedia.org/wiki/SoftBank_Group)[^3]
 
 [^1]: Maze Bank of Los Santos is a fictional bank in Grand Theft Auto V.
 [^2]: Tokyo Chuo Banking Corporation is a fictional bank in [Hanzawa Naoki](https://en.wikipedia.org/wiki/Hanzawa_Naoki).
+[^3]: SoftBank is not a Bank. It's a mobile operator in Japan.
 
 ### Profile BBCode link-in
 

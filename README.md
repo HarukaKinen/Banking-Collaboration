@@ -28,7 +28,7 @@ Sort by join time
 
 [![](Image/BKCHHK.png)](https://osu.ppy.sh/users/14817468)
 [![](Image/ICBCTW.png)](https://osu.ppy.sh/users/8693179)
-[![](image/MAZEUS.png)](https://osu.ppy.sh/users/8692802)
+[![](Image/MAZEUS.png)](https://osu.ppy.sh/users/8692802)
 [![](Image/CIBBMY.png)](https://osu.ppy.sh/users/9830401)
 [![](Image/HSBCHK.png)](https://osu.ppy.sh/users/2699015)
 

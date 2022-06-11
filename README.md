@@ -38,6 +38,10 @@ Sort by join time
 [![](Image/BOTKJP.png)](https://osu.ppy.sh/users/24004891)
 [![](Image/GDRCCN.png)](https://osu.ppy.sh/users/11715204)
 [![](Image/DEUTDE.png)](https://osu.ppy.sh/users/4734497)
+[![](Image/PCBCCN.png)](https://osu.ppy.sh/users/17159216)
+
+[![](Image/CHASUS.png)](https://osu.ppy.sh/users/10479369)
+[![](Image/TCBCJP.png)](https://osu.ppy.sh/users/19217915)
 
 ### List of members
 
@@ -61,6 +65,9 @@ Sort by join time
 | [Kevin0036](https://osu.ppy.sh/users/24004891) | [MUFG Bank Ltd.](https://en.wikipedia.org/wiki/MUFG_Bank)
 | [Sakurai_Shiyi](https://osu.ppy.sh/users/11715204) | [Guangdong Rural Credit Union](http://www.gdrcu.com/) |
 | [feifeiis](https://osu.ppy.sh/users/4734497) | [Deutsche Bank AG](https://en.wikipedia.org/wiki/Deutsche_Bank) |
+| [7White](https://osu.ppy.sh/users/17159216) | [China Construction Bank Corporation](https://en.wikipedia.org/wiki/China_Construction_Bank)
+| [OsmiumD](https://osu.ppy.sh/users/10479369) | [JPMorgan Chase Bank, N.A.](https://en.wikipedia.org/wiki/Chase_Bank)
+| [SnowyNight](https://osu.ppy.sh/users/19217915) | Tokyo Chuo Banking Corporation
 
 ### Profile BBCode link-in
 

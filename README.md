@@ -53,7 +53,8 @@ Sort by join time
 | [-Shamiko-](https://osu.ppy.sh/users/5844899) | [Sengjing Bank](https://zh.wikipedia.org/wiki/%E7%9B%9B%E4%BA%AC%E9%93%B6%E8%A1%8C) |
 | [Shameimaru Aya](https://osu.ppy.sh/users/17335266) | [Bank of Shanghai](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E9%93%B6%E8%A1%8C) |
 | [nakuru](https://osu.ppy.sh/users/17030076) | [Bank of Chengdu](https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E9%93%B6%E8%A1%8C) |
-| [KaRe7mi](https://osu.ppy.sh/users/8012734) | [OCBC Wing Hang Bank (Hong Kong)](https://en.wikipedia.org/wiki/OCBC_Wing_Hang_Bank) |
+| [Chazz](https://osu.ppy.sh/users/9392848) | [OCBC Wing Hang Bank (Hong Kong)](https://en.wikipedia.org/wiki/OCBC_Wing_Hang_Bank) |
+| [KaRe7mi](https://osu.ppy.sh/users/8012734) | [Xiamen Bank](https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E9%93%B6%E8%A1%8C) |
 | [BakaSnow](https://osu.ppy.sh/users/2481197) | [Sumitomo Mitsui Banking Corporation](https://en.wikipedia.org/wiki/Sumitomo_Mitsui_Banking_Corporation) |
 | [Ruby_](https://osu.ppy.sh/users/12956332) | [Postal Savings Bank of China Co., Ltd.](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%82%A8%E8%93%84%E9%93%B6%E8%A1%8C) |
 | [stllok](https://osu.ppy.sh/users/14817468) | [Bank of China (Hong Kong) Limited](https://en.wikipedia.org/wiki/Bank_of_China_(Hong_Kong)) |

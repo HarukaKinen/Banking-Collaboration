@@ -8,8 +8,6 @@ This is a community project. Any player mentioned below **is not** associated wi
 
 "osu!" is a trademark of ppy Pty Ltd. Any of the banks mentioned **is not affiliated** with ppy Pty Ltd in any way.
 
-Maze Bank of Los Santos is **a fictional bank** from the **Grand Theft Auto V** by Rockstar Games
-
 ## Collab Right now
 
 Sort by join time
@@ -60,7 +58,7 @@ Sort by join time
 | [Ruby_](https://osu.ppy.sh/users/12956332) | [Postal Savings Bank of China Co., Ltd.](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%82%A8%E8%93%84%E9%93%B6%E8%A1%8C) |
 | [stllok](https://osu.ppy.sh/users/14817468) | [Bank of China (Hong Kong) Limited](https://en.wikipedia.org/wiki/Bank_of_China_(Hong_Kong)) |
 | [[Paw]OchiKouri](https://osu.ppy.sh/users/8693179) | [Mega International Commercial Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E5%85%86%E8%B1%90%E5%9C%8B%E9%9A%9B%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8C) |
-| [Guozi on Osu](https://osu.ppy.sh/users/8692802) | [Maze Bank of Los Santos](https://gta.fandom.com/wiki/Maze_Bank) |
+| [Guozi on Osu](https://osu.ppy.sh/users/8692802) | [Maze Bank of Los Santos](https://gta.fandom.com/wiki/Maze_Bank)[^1] |
 | [-[Yuzi Mo]-](https://osu.ppy.sh/users/9830401) | [CIMB Group](https://en.wikipedia.org/wiki/CIMB) |
 | [ywwuyi](https://osu.ppy.sh/users/2699015) | [The Hongkong and Shanghai Banking Corporation Limited](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%B5%B7%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C) |
 | [\[GS\]hina](https://osu.ppy.sh/users/20040607) | [Mizuho Bank, Ltd.](https://en.wikipedia.org/wiki/Mizuho_Bank) |
@@ -69,8 +67,11 @@ Sort by join time
 | [feifeiis](https://osu.ppy.sh/users/4734497) | [Deutsche Bank AG](https://en.wikipedia.org/wiki/Deutsche_Bank) |
 | [7White](https://osu.ppy.sh/users/17159216) | [China Construction Bank Corporation](https://en.wikipedia.org/wiki/China_Construction_Bank)
 | [OsmiumD](https://osu.ppy.sh/users/10479369) | [JPMorgan Chase Bank, N.A.](https://en.wikipedia.org/wiki/Chase_Bank)
-| [SnowyNight](https://osu.ppy.sh/users/19217915) | Tokyo Chuo Banking Corporation |
+| [SnowyNight](https://osu.ppy.sh/users/19217915) | Tokyo Chuo Banking Corporation[^2] |
 | [SugerSakiE](https://osu.ppy.sh/users/15091523) | [VTB BANK (PJSC)](https://en.wikipedia.org/wiki/VTB_Bank) |
+
+[^1]: Maze Bank of Los Santos is a fictional bank in Grand Theft Auto V.
+[^2]: Tokyo Chuo Banking Corporation is a fictional bank in [Hanzawa Naoki](https://en.wikipedia.org/wiki/Hanzawa_Naoki).
 
 ### Profile BBCode link-in
 

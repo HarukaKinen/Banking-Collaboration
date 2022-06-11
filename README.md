@@ -8,11 +8,13 @@ This is a community project. Any player mentioned below **is not** associated wi
 
 "osu!" is a trademark of ppy Pty Ltd. Any of the banks mentioned **is not affiliated** with ppy Pty Ltd in any way.
 
-## Collab Right now
+## Current Collab
 
 Sort by join time
 
-### Banner
+### Icon
+
+All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 
 [![](Image/BKCHCN.png)](https://osu.ppy.sh/users/6403393)
 [![](Image/DGCBCN.png)](https://osu.ppy.sh/users/13852795)

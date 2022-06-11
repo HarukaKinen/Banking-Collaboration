@@ -8,7 +8,7 @@ This is a community project. Any player mentioned below **is not** associated wi
 
 "osu!" is a trademark of ppy Pty Ltd. Any of the banks mentioned **is not affiliated** with ppy Pty Ltd in any way.
 
-Maze Bank of Los Santos is a is **a fictional bank** from the **Grand Theft Auto V** by Rockstar Games
+Maze Bank of Los Santos is **a fictional bank** from the **Grand Theft Auto V** by Rockstar Games
 
 ## Collab Right now
 

@@ -98,3 +98,5 @@ Sort by join time
 Private message [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) in osu!
 
 **We don't accept any central banks from any country.** Preferably please use a commercial bank that exists, regardless of country.
+
+### Footnote

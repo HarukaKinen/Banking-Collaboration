@@ -33,11 +33,12 @@ Sort by join time
 [![](Image/HSBCHK.png)](https://osu.ppy.sh/users/2699015)
 
 [![](Image/MHCBJP.png)](https://osu.ppy.sh/users/20040607)
+[![](Image/BOTKJP.png)](https://osu.ppy.sh/users/24004891)
 
 ### List of members
 
 | Player | Bank |
-|:------:|:----:|
+|:-:|:-:|
 | [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) | [Bank of China Limited](https://en.wikipedia.org/wiki/Bank_of_China) |
 | [45697](https://osu.ppy.sh/users/13852795) | [Bank of Dongguan](https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8E%9E%E9%93%B6%E8%A1%8C) |
 | [RandomPsion](https://osu.ppy.sh/users/13255728) | [China Merchants Bank Co.,Ltd](https://en.wikipedia.org/wiki/China_Merchants_Bank) |
@@ -53,6 +54,7 @@ Sort by join time
 | [-[Yuzi Mo]-](https://osu.ppy.sh/users/9830401) | [CIMB Group](https://en.wikipedia.org/wiki/CIMB) |
 | [ywwuyi](https://osu.ppy.sh/users/2699015) | [The Hongkong and Shanghai Banking Corporation Limited](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%B5%B7%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C) |
 | [\[GS\]hina](https://osu.ppy.sh/users/20040607) | [Mizuho Bank, Ltd.](https://en.wikipedia.org/wiki/Mizuho_Bank) |
+| [Kevin0036](https://osu.ppy.sh/users/24004891) | [MUFG Bank Ltd.](https://en.wikipedia.org/wiki/MUFG_Bank)
 
 ### Profile BBCode link-in
 

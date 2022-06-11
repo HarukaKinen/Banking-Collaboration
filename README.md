@@ -50,6 +50,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/GZRCCN.png)](https://osu.ppy.sh/users/2066337)
 [![](Image/ZJCBCN.png)](https://osu.ppy.sh/users/14152434)
 [![](Image/BNPAFR.png)](https://osu.ppy.sh/users/6410878)
+[![](Image/CXRCCN.png)](https://osu.ppy.sh/users/10246790)
 
 ### List of members
 
@@ -89,6 +90,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 | [Flowerbell](https://osu.ppy.sh/users/2066337) | [Guangzhou Rural Commercial Bank](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%86%9C%E6%9D%91%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C) |
 | [Les Fleurs](https://osu.ppy.sh/users/14152434) | [China Zheshang Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%B5%99%E5%95%86%E9%93%B6%E8%A1%8C) |
 | [pomroz](https://osu.ppy.sh/users/6410878) | [BNP Paribas S.A.](https://en.wikipedia.org/wiki/BNP_Paribas) |
+| [GalaxyEmpire](https://osu.ppy.sh/users/10246790) | Rural Commercial Bank of Caoxian |
 
 ### Profile BBCode link-in
 

@@ -85,6 +85,8 @@ Sort by join time
 
 ### Profile BBCode link-in
 
+This collab will be updated **frequently** as people join, feel free to checking the following to keep the collab on your profile up-to-date.
+
 ```bbcode
 [notice][centre][url=https://github.com/HarukaKinen/Banking-Collaboration][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/title.gif[/img][/url]
 

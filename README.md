@@ -42,6 +42,7 @@ Sort by join time
 
 [![](Image/CHASUS.png)](https://osu.ppy.sh/users/10479369)
 [![](Image/TCBCJP.png)](https://osu.ppy.sh/users/19217915)
+[![](Image/VTBRRU.png)](https://osu.ppy.sh/users/15091523)
 
 ### List of members
 
@@ -68,7 +69,8 @@ Sort by join time
 | [feifeiis](https://osu.ppy.sh/users/4734497) | [Deutsche Bank AG](https://en.wikipedia.org/wiki/Deutsche_Bank) |
 | [7White](https://osu.ppy.sh/users/17159216) | [China Construction Bank Corporation](https://en.wikipedia.org/wiki/China_Construction_Bank)
 | [OsmiumD](https://osu.ppy.sh/users/10479369) | [JPMorgan Chase Bank, N.A.](https://en.wikipedia.org/wiki/Chase_Bank)
-| [SnowyNight](https://osu.ppy.sh/users/19217915) | Tokyo Chuo Banking Corporation
+| [SnowyNight](https://osu.ppy.sh/users/19217915) | Tokyo Chuo Banking Corporation |
+| [SugerSakiE](https://osu.ppy.sh/users/15091523) | [VTB BANK (PJSC)](https://en.wikipedia.org/wiki/VTB_Bank) |
 
 ### Profile BBCode link-in
 

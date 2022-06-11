@@ -75,8 +75,7 @@ Sort by join time
 ### Profile BBCode link-in
 
 ```bbcode
-[notice][centre]
-[url=https://github.com/HarukaKinen/Banking-Collaboration][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/title.gif[/img][/url]
+[notice][centre][url=https://github.com/HarukaKinen/Banking-Collaboration][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/title.gif[/img][/url]
 
 [url=https://osu.ppy.sh/users/6403393][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/BKCHCN.png[/img][/url][url=https://osu.ppy.sh/users/13852795][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/DGCBCN.png[/img][/url][url=https://osu.ppy.sh/users/13255728][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/CMBCCN.png[/img][/url][url=https://osu.ppy.sh/users/5844899][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/SYCBCN.png[/img][/url][url=https://osu.ppy.sh/users/17335266][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/BOSHCN.png[/img][/url]
 [url=https://osu.ppy.sh/users/17030076][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/COBCCN.png[/img][/url][url=https://osu.ppy.sh/users/9392848][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/WIHBHK.png[/img][/url][url=https://osu.ppy.sh/users/8012734][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/CBXMCN.png[/img][/url][url=https://osu.ppy.sh/users/2481197][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/SMBCJP.png[/img][/url][url=https://osu.ppy.sh/users/12956332][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/PSBCCN.png[/img][/url]

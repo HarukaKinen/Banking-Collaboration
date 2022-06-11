@@ -32,6 +32,8 @@ Sort by join time
 [![](Image/CIBBMY.png)](https://osu.ppy.sh/users/9830401)
 [![](Image/HSBCHK.png)](https://osu.ppy.sh/users/2699015)
 
+[![](Image/MHCBJP.png)](https://osu.ppy.sh/users/20040607)
+
 ### List of members
 
 | Player | Bank |
@@ -50,6 +52,7 @@ Sort by join time
 | [Guozi on Osu](https://osu.ppy.sh/users/8692802) | [Maze Bank of Los Santos](https://gta.fandom.com/wiki/Maze_Bank) |
 | [-[Yuzi Mo]-](https://osu.ppy.sh/users/9830401) | [CIMB Group](https://en.wikipedia.org/wiki/CIMB) |
 | [ywwuyi](https://osu.ppy.sh/users/2699015) | [The Hongkong and Shanghai Banking Corporation Limited](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%B5%B7%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C) |
+| [\[GS\]hina](https://osu.ppy.sh/users/20040607) | [Mizuho Bank, Ltd.](https://en.wikipedia.org/wiki/Mizuho_Bank) |
 
 ### Profile BBCode link-in
 

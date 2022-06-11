@@ -1,5 +1,7 @@
 a Banking Collab project for osu! player
 
+![](Image/title.gif)
+
 ## Disclaimer
 
 This is a community project. Any player mentioned below **is not** associated with any of the banks mentioned and **no one** is employee of them

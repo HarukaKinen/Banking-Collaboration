@@ -127,6 +127,12 @@ Private message [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) in osu!
 
 **We don't accept any central banks from any country.** Preferably please use a commercial bank that exists, regardless of country.
 
+## Licence
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This project is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
 ---
 
 ### Footnote

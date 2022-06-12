@@ -109,6 +109,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/GENODE.png)](https://osu.ppy.sh/users/19204569)
 [![](Image/CCBPFR.png)](https://osu.ppy.sh/users/7150814)
 [![](Image/CEPAFR.png)](https://osu.ppy.sh/users/17442279)
+[![](Image/BSMDID.png)](https://osu.ppy.sh/users/7782110)
 [![](Image/BSCHES.png)](https://osu.ppy.sh/users/714369)
 
 ### Profile BBCode link-in

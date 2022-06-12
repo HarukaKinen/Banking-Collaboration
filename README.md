@@ -57,6 +57,11 @@ Sort by join time
 | ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
 | ![][flag_KR] [FLYEMOJ1](https://osu.ppy.sh/users/10994977) | ![][flag_KR] [TossBank Corp.](https://namu.wiki/w/%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC) |
 | ![][flag_CN] [Tensorera](https://osu.ppy.sh/users/19204569) | ![][flag_DE] [BBBank eG](https://en.wikipedia.org/wiki/BBBank)
+| ![][flag_FR] [Airwam](https://osu.ppy.sh/users/7150814) | ![][flag_FR] [Groupe Banque Populaire](https://fr.wikipedia.org/wiki/Banque_populaire) |
+| ![][flag_FR] [Not Airwam](https://osu.ppy.sh/users/17442279) | ![][flag_FR] [Groupe Caisse d'Épargne](https://fr.wikipedia.org/wiki/Caisse_d%27%C3%A9pargne_(banque)) |
+| ![][flag_ID] [Liostallis](https://osu.ppy.sh/users/7782110) | ![][flag_ID] [PT Bank Mandiri (Persero) Tbk.](https://id.wikipedia.org/wiki/Bank_Mandiri) |
+| ![][flag_CN] [GreySTrip_VoV](https://osu.ppy.sh/users/714369) | ![][flag_ES] [Santander Bank, N. A.](https://en.wikipedia.org/wiki/Santander_Bank) |
+
 ### Icon
 
 All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
@@ -102,6 +107,9 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/XJBCCN.png)](https://osu.ppy.sh/users/13999223)
 [![](Image/TOSBKR.png)](https://osu.ppy.sh/users/10994977)
 [![](Image/GENODE.png)](https://osu.ppy.sh/users/19204569)
+[![](Image/CCBPFR.png)](https://osu.ppy.sh/users/7150814)
+[![](Image/CEPAFR.png)](https://osu.ppy.sh/users/17442279)
+[![](Image/BSCHES.png)](https://osu.ppy.sh/users/714369)
 
 ### Profile BBCode link-in
 

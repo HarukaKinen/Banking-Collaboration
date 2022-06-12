@@ -12,50 +12,6 @@ This is a community project. Any player mentioned below **is not** associated wi
 
 Sort by join time
 
-### Icon
-
-All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
-
-[![](Image/BKCHCN.png)](https://osu.ppy.sh/users/6403393)
-[![](Image/DGCBCN.png)](https://osu.ppy.sh/users/13852795)
-[![](Image/CMBCCN.png)](https://osu.ppy.sh/users/13255728)
-[![](Image/SYCBCN.png)](https://osu.ppy.sh/users/5844899)
-[![](Image/BOSHCN.png)](https://osu.ppy.sh/users/17335266)
-[![](Image/COBCCN.png)](https://osu.ppy.sh/users/17030076)
-[![](Image/WIHBHK.png)](https://osu.ppy.sh/users/9392848)
-[![](Image/CBXMCN.png)](https://osu.ppy.sh/users/8012734)
-[![](Image/SMBCJP.png)](https://osu.ppy.sh/users/2481197)
-[![](Image/PSBCCN.png)](https://osu.ppy.sh/users/12956332)
-[![](Image/BKCHHK.png)](https://osu.ppy.sh/users/14817468)
-[![](Image/ICBCTW.png)](https://osu.ppy.sh/users/8693179)
-[![](Image/MAZEUS.png)](https://osu.ppy.sh/users/8692802)
-[![](Image/CIBBMY.png)](https://osu.ppy.sh/users/9830401)
-[![](Image/HSBCHK.png)](https://osu.ppy.sh/users/2699015)
-[![](Image/MHCBJP.png)](https://osu.ppy.sh/users/20040607)
-[![](Image/BOTKJP.png)](https://osu.ppy.sh/users/24004891)
-[![](Image/GDRCCN.png)](https://osu.ppy.sh/users/11715204)
-[![](Image/DEUTDE.png)](https://osu.ppy.sh/users/4734497)
-[![](Image/PCBCCN.png)](https://osu.ppy.sh/users/17159216)
-[![](Image/CHASUS.png)](https://osu.ppy.sh/users/10479369)
-[![](Image/TCBCJP.png)](https://osu.ppy.sh/users/19217915)
-[![](Image/VTBRRU.png)](https://osu.ppy.sh/users/15091523)
-[![](Image/SOBKJP.png)](https://osu.ppy.sh/users/13184288)
-[![](Image/PKMBJP.png)](https://osu.ppy.sh/users/15436106)
-[![](Image/GZCBCN.png)](https://osu.ppy.sh/users/15525823)
-[![](Image/QCCBCN.png)](https://osu.ppy.sh/users/16158742)
-[![](Image/BHFBDE.png)](https://osu.ppy.sh/users/3550729)
-[![](Image/ABOCCN.png)](https://osu.ppy.sh/users/14445292)
-[![](Image/WEBCCN.png)](https://osu.ppy.sh/users/4313716)
-[![](Image/ICBKCN.png)](https://osu.ppy.sh/users/1759858)
-[![](Image/GZRCCN.png)](https://osu.ppy.sh/users/2066337)
-[![](Image/ZJCBCN.png)](https://osu.ppy.sh/users/14152434)
-[![](Image/BNPAFR.png)](https://osu.ppy.sh/users/6410878)
-[![](Image/CXRCCN.png)](https://osu.ppy.sh/users/10246790)
-[![](Image/AGRIFR.png)](https://osu.ppy.sh/users/18607342)
-[![](Image/BOFAUS.png)](https://osu.ppy.sh/users/15842915)
-[![](Image/HABCCN.png)](https://osu.ppy.sh/users/15030466)
-[![](Image/XJBCCN.png)](https://osu.ppy.sh/users/13999223)
-
 ### List of members
 
 | Player | Bank |
@@ -99,6 +55,50 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 | ![][flag_US] [Infric](https://osu.ppy.sh/users/15842915) | ![][flag_US] [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
 | ![][flag_CN] [lolol727](https://osu.ppy.sh/users/15030466) | ![][flag_CN] The Heaven and Hell Bank[^5] |
 | ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang CO.,Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
+
+### Icon
+
+All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
+
+[![](Image/BKCHCN.png)](https://osu.ppy.sh/users/6403393)
+[![](Image/DGCBCN.png)](https://osu.ppy.sh/users/13852795)
+[![](Image/CMBCCN.png)](https://osu.ppy.sh/users/13255728)
+[![](Image/SYCBCN.png)](https://osu.ppy.sh/users/5844899)
+[![](Image/BOSHCN.png)](https://osu.ppy.sh/users/17335266)
+[![](Image/COBCCN.png)](https://osu.ppy.sh/users/17030076)
+[![](Image/WIHBHK.png)](https://osu.ppy.sh/users/9392848)
+[![](Image/CBXMCN.png)](https://osu.ppy.sh/users/8012734)
+[![](Image/SMBCJP.png)](https://osu.ppy.sh/users/2481197)
+[![](Image/PSBCCN.png)](https://osu.ppy.sh/users/12956332)
+[![](Image/BKCHHK.png)](https://osu.ppy.sh/users/14817468)
+[![](Image/ICBCTW.png)](https://osu.ppy.sh/users/8693179)
+[![](Image/MAZEUS.png)](https://osu.ppy.sh/users/8692802)
+[![](Image/CIBBMY.png)](https://osu.ppy.sh/users/9830401)
+[![](Image/HSBCHK.png)](https://osu.ppy.sh/users/2699015)
+[![](Image/MHCBJP.png)](https://osu.ppy.sh/users/20040607)
+[![](Image/BOTKJP.png)](https://osu.ppy.sh/users/24004891)
+[![](Image/GDRCCN.png)](https://osu.ppy.sh/users/11715204)
+[![](Image/DEUTDE.png)](https://osu.ppy.sh/users/4734497)
+[![](Image/PCBCCN.png)](https://osu.ppy.sh/users/17159216)
+[![](Image/CHASUS.png)](https://osu.ppy.sh/users/10479369)
+[![](Image/TCBCJP.png)](https://osu.ppy.sh/users/19217915)
+[![](Image/VTBRRU.png)](https://osu.ppy.sh/users/15091523)
+[![](Image/SOBKJP.png)](https://osu.ppy.sh/users/13184288)
+[![](Image/PKMBJP.png)](https://osu.ppy.sh/users/15436106)
+[![](Image/GZCBCN.png)](https://osu.ppy.sh/users/15525823)
+[![](Image/QCCBCN.png)](https://osu.ppy.sh/users/16158742)
+[![](Image/BHFBDE.png)](https://osu.ppy.sh/users/3550729)
+[![](Image/ABOCCN.png)](https://osu.ppy.sh/users/14445292)
+[![](Image/WEBCCN.png)](https://osu.ppy.sh/users/4313716)
+[![](Image/ICBKCN.png)](https://osu.ppy.sh/users/1759858)
+[![](Image/GZRCCN.png)](https://osu.ppy.sh/users/2066337)
+[![](Image/ZJCBCN.png)](https://osu.ppy.sh/users/14152434)
+[![](Image/BNPAFR.png)](https://osu.ppy.sh/users/6410878)
+[![](Image/CXRCCN.png)](https://osu.ppy.sh/users/10246790)
+[![](Image/AGRIFR.png)](https://osu.ppy.sh/users/18607342)
+[![](Image/BOFAUS.png)](https://osu.ppy.sh/users/15842915)
+[![](Image/HABCCN.png)](https://osu.ppy.sh/users/15030466)
+[![](Image/XJBCCN.png)](https://osu.ppy.sh/users/13999223)
 
 ### Profile BBCode link-in
 

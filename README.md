@@ -51,6 +51,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/ZJCBCN.png)](https://osu.ppy.sh/users/14152434)
 [![](Image/BNPAFR.png)](https://osu.ppy.sh/users/6410878)
 [![](Image/CXRCCN.png)](https://osu.ppy.sh/users/10246790)
+[![](Image/AGRIFR.png)](https://osu.ppy.sh/users/18607342)
 
 ### List of members
 
@@ -91,6 +92,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 | [Les Fleurs](https://osu.ppy.sh/users/14152434) | [China Zheshang Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%B5%99%E5%95%86%E9%93%B6%E8%A1%8C) |
 | [pomroz](https://osu.ppy.sh/users/6410878) | [BNP Paribas S.A.](https://en.wikipedia.org/wiki/BNP_Paribas) |
 | [GalaxyEmpire](https://osu.ppy.sh/users/10246790) | Rural Commercial Bank of Caoxian |
+| [Kheops](https://osu.ppy.sh/users/18607342) | [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
 
 ### Profile BBCode link-in
 

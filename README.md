@@ -55,6 +55,7 @@ Sort by join time
 | ![][flag_US] [Infric](https://osu.ppy.sh/users/15842915) | ![][flag_US] [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
 | ![][flag_CN] [lolol727](https://osu.ppy.sh/users/15030466) | ![][flag_CN] The Heaven and Hell Bank[^5] |
 | ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
+| ![][flag_KR] [FLYEMOJ1](https://osu.ppy.sh/users/10994977) | ![][flag_KR] [TossBank Corp.](https://namu.wiki/w/%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC) |
 
 ### Icon
 
@@ -99,6 +100,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/BOFAUS.png)](https://osu.ppy.sh/users/15842915)
 [![](Image/HABCCN.png)](https://osu.ppy.sh/users/15030466)
 [![](Image/XJBCCN.png)](https://osu.ppy.sh/users/13999223)
+[![](Image/TOSBKR.png)](https://osu.ppy.sh/users/10994977)
 
 ### Profile BBCode link-in
 

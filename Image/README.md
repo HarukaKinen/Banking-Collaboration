@@ -20,6 +20,7 @@ They are:
 - Rural Commercial Bank of Caoxian
 - The Heaven and Hell Bank
 - [Bank of Xinjiang CO.,Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C)
+- [TossBank Corp.](https://namu.wiki/w/%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC)
 
 For these banks, their file names format are:
 

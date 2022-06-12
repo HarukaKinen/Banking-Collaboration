@@ -61,7 +61,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 | [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) | [Bank of China Limited](https://en.wikipedia.org/wiki/Bank_of_China) |
 | [45697](https://osu.ppy.sh/users/13852795) | [Bank of Dongguan](https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8E%9E%E9%93%B6%E8%A1%8C) |
 | [RandomPsion](https://osu.ppy.sh/users/13255728) | [China Merchants Bank Co.,Ltd](https://en.wikipedia.org/wiki/China_Merchants_Bank) |
-| [-Shamiko-](https://osu.ppy.sh/users/5844899) | [Sengjing Bank](https://zh.wikipedia.org/wiki/%E7%9B%9B%E4%BA%AC%E9%93%B6%E8%A1%8C) |
+| [-Shamiko-](https://osu.ppy.sh/users/5844899) | [Shengjing Bank](https://zh.wikipedia.org/wiki/%E7%9B%9B%E4%BA%AC%E9%93%B6%E8%A1%8C) |
 | [Shameimaru Aya](https://osu.ppy.sh/users/17335266) | [Bank of Shanghai](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E9%93%B6%E8%A1%8C) |
 | [nakuru](https://osu.ppy.sh/users/17030076) | [Bank of Chengdu](https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E9%93%B6%E8%A1%8C) |
 | [Chazz](https://osu.ppy.sh/users/9392848) | [OCBC Wing Hang Bank (Hong Kong)](https://en.wikipedia.org/wiki/OCBC_Wing_Hang_Bank) |

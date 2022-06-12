@@ -54,7 +54,7 @@ Sort by join time
 | ![][flag_FR] [Kheops](https://osu.ppy.sh/users/18607342) | ![][flag_FR] [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
 | ![][flag_US] [Infric](https://osu.ppy.sh/users/15842915) | ![][flag_US] [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
 | ![][flag_CN] [lolol727](https://osu.ppy.sh/users/15030466) | ![][flag_CN] The Heaven and Hell Bank[^5] |
-| ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang CO., Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
 
 ### Icon
 

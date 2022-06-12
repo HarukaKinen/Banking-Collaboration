@@ -54,6 +54,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/AGRIFR.png)](https://osu.ppy.sh/users/18607342)
 [![](Image/BOFAUS.png)](https://osu.ppy.sh/users/15842915)
 [![](Image/HHBCCN.png)](https://osu.ppy.sh/users/15030466)
+[![](Image/XJBCCN.png)](https://osu.ppy.sh/users/13999223)
 
 ### List of members
 
@@ -97,6 +98,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 | [Kheops](https://osu.ppy.sh/users/18607342) | [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
 | [Infric](https://osu.ppy.sh/users/15842915) | [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
 | [lolol727](https://osu.ppy.sh/users/15030466) | The Heaven and Hell Bank[^5] |
+| [ShandenOnter](https://osu.ppy.sh/users/13999223) | [Bank of Xinjiang CO.,Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
 
 ### Profile BBCode link-in
 

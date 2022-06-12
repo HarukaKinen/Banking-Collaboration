@@ -19,6 +19,7 @@ They are:
 - [WeBank Co., Ltd.](https://zh.wikipedia.org/wiki/%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C)
 - Rural Commercial Bank of Caoxian
 - The Heaven and Hell Bank
+- [Bank of Xinjiang CO.,Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C)
 
 For these banks, their file names format are:
 

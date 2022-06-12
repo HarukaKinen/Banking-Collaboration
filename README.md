@@ -110,7 +110,11 @@ This collab will be updated **frequently** as people join, feel free to checking
 Or check BBCode's [Raw file](https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/BBCode.file) for quick copy paste.
 
 ```bbcode
-[notice][centre][url=https://github.com/HarukaKinen/Banking-Collaboration][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/title.gif[/img][/url]
+[notice][centre]
+
+[box=Banking Collab]
+
+[url=https://github.com/HarukaKinen/Banking-Collaboration][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/title.gif[/img][/url]
 
 [url=https://osu.ppy.sh/users/6403393][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/BKCHCN.png[/img][/url][url=https://osu.ppy.sh/users/13852795][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/DGCBCN.png[/img][/url][url=https://osu.ppy.sh/users/13255728][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/CMBCCN.png[/img][/url][url=https://osu.ppy.sh/users/5844899][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/SYCBCN.png[/img][/url][url=https://osu.ppy.sh/users/17335266][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/BOSHCN.png[/img][/url]
 [url=https://osu.ppy.sh/users/17030076][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/COBCCN.png[/img][/url][url=https://osu.ppy.sh/users/9392848][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/WIHBHK.png[/img][/url][url=https://osu.ppy.sh/users/8012734][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/CBXMCN.png[/img][/url][url=https://osu.ppy.sh/users/2481197][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/SMBCJP.png[/img][/url][url=https://osu.ppy.sh/users/12956332][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/PSBCCN.png[/img][/url]
@@ -122,7 +126,10 @@ Or check BBCode's [Raw file](https://raw.githubusercontent.com/HarukaKinen/Banki
 [url=https://osu.ppy.sh/users/18607342][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/AGRIFR.png[/img][/url][url=https://osu.ppy.sh/users/15842915][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/BOFAUS.png[/img][/url][url=https://osu.ppy.sh/users/15030466][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/HABCCN.png[/img][/url][url=https://osu.ppy.sh/users/13999223][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/XJBCCN.png[/img][/url][url=https://osu.ppy.sh/users/10994977][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/TOSBKR.png[/img][/url]
 [url=https://osu.ppy.sh/users/19204569][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/GENODE.png[/img][/url]
 
+[/box]
+
 [/centre][/notice]
+
 ```
 
 ## Wanna join?

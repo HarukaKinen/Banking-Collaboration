@@ -18,7 +18,7 @@ Sort by join time
 |:-:|:-:|
 | ![][flag_CN] [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) | ![][flag_CN] [Bank of China Limited](https://en.wikipedia.org/wiki/Bank_of_China) |
 | ![][flag_CN] [45697](https://osu.ppy.sh/users/13852795) | ![][flag_CN] [Bank of Dongguan](https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8E%9E%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [RandomPsion](https://osu.ppy.sh/users/13255728) | ![][flag_CN] [China Merchants Bank Co.,Ltd](https://en.wikipedia.org/wiki/China_Merchants_Bank) |
+| ![][flag_CN] [RandomPsion](https://osu.ppy.sh/users/13255728) | ![][flag_CN] [China Merchants Bank Co., Ltd.](https://en.wikipedia.org/wiki/China_Merchants_Bank) |
 | ![][flag_CN] [-Shamiko-](https://osu.ppy.sh/users/5844899) | ![][flag_CN] [Shengjing Bank](https://zh.wikipedia.org/wiki/%E7%9B%9B%E4%BA%AC%E9%93%B6%E8%A1%8C) |
 | ![][flag_CH] [Shameimaru Aya](https://osu.ppy.sh/users/17335266) | ![][flag_CN] [Bank of Shanghai](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E9%93%B6%E8%A1%8C) |
 | ![][flag_CN] [nakuru](https://osu.ppy.sh/users/17030076) | ![][flag_CN] [Bank of Chengdu](https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E9%93%B6%E8%A1%8C) |
@@ -54,7 +54,7 @@ Sort by join time
 | ![][flag_FR] [Kheops](https://osu.ppy.sh/users/18607342) | ![][flag_FR] [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
 | ![][flag_US] [Infric](https://osu.ppy.sh/users/15842915) | ![][flag_US] [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
 | ![][flag_CN] [lolol727](https://osu.ppy.sh/users/15030466) | ![][flag_CN] The Heaven and Hell Bank[^5] |
-| ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang CO.,Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang CO., Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
 
 ### Icon
 

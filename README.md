@@ -104,7 +104,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 
 This collab will be updated **frequently** as people join, feel free to checking the following to keep the collab on your profile up-to-date.
 
-Or check BBCode's [Raw file](BBCode.file) for quick copy paste.
+Or check BBCode's [Raw file](https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/BBCode.file) for quick copy paste.
 
 ```bbcode
 [notice][centre][url=https://github.com/HarukaKinen/Banking-Collaboration][img]https://raw.githubusercontent.com/HarukaKinen/Banking-Collaboration/master/Image/title.gif[/img][/url]

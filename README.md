@@ -32,7 +32,7 @@ Sort by join time
 | ![][flag_CN] [-[Yuzi Mo]-](https://osu.ppy.sh/users/9830401) | ![][flag_MY] [CIMB Group](https://en.wikipedia.org/wiki/CIMB) |
 | ![][flag_CN] [ywwuyi](https://osu.ppy.sh/users/2699015) | ![][flag_HK] [The Hongkong and Shanghai Banking Corporation Limited](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%B5%B7%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C) |
 | ![][flag_JP] [\[GS\]hina](https://osu.ppy.sh/users/20040607) | ![][flag_JP] [Mizuho Bank, Ltd.](https://en.wikipedia.org/wiki/Mizuho_Bank) |
-| ![][flag_JP] [Kevin0036](https://osu.ppy.sh/users/24004891) | ![][flag_JP] [MUFG Bank Ltd.](https://en.wikipedia.org/wiki/MUFG_Bank)
+| ![][flag_JP] [Kevin0036](https://osu.ppy.sh/users/24004891) | ![][flag_JP] [MUFG Bank, Ltd.](https://en.wikipedia.org/wiki/MUFG_Bank)
 | ![][flag_CN] [Sakurai_Shiyi](https://osu.ppy.sh/users/11715204) | ![][flag_CN] [Guangdong Rural Credit Union](http://www.gdrcu.com/) |
 | ![][flag_CN] [feifeiis](https://osu.ppy.sh/users/4734497) | ![][flag_DE] [Deutsche Bank AG](https://en.wikipedia.org/wiki/Deutsche_Bank) |
 | ![][flag_CN] [7White](https://osu.ppy.sh/users/17159216) | ![][flag_CN] [China Construction Bank Corporation](https://en.wikipedia.org/wiki/China_Construction_Bank)

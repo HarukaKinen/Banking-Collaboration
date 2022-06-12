@@ -53,6 +53,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/CXRCCN.png)](https://osu.ppy.sh/users/10246790)
 [![](Image/AGRIFR.png)](https://osu.ppy.sh/users/18607342)
 [![](Image/BOFAUS.png)](https://osu.ppy.sh/users/15842915)
+[![](Image/HHBCCN.png)](https://osu.ppy.sh/users/15030466)
 
 ### List of members
 
@@ -95,6 +96,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 | [GalaxyEmpire](https://osu.ppy.sh/users/10246790) | Rural Commercial Bank of Caoxian |
 | [Kheops](https://osu.ppy.sh/users/18607342) | [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
 | [Infric](https://osu.ppy.sh/users/15842915) | [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
+| [lolol727](https://osu.ppy.sh/users/15030466) | The Heaven and Hell Bank[^5] |
 
 ### Profile BBCode link-in
 
@@ -131,3 +133,4 @@ Private message [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) in osu!
 [^2]: Tokyo Chuo Banking Corporation is a fictional bank in [Hanzawa Naoki](https://en.wikipedia.org/wiki/Hanzawa_Naoki).
 [^3]: SoftBank is not a Bank. It's a mobile operator in Japan.
 [^4]: The Pokémon Bank is a Nintendo 3DS application that allows players to store their Pokémon on the Internet between multiple Pokémon games.
+[^5]: The Heaven and Hell Bank is a fictional bank on incense papers. Also a meme in Chinese community.

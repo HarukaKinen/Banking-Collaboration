@@ -94,7 +94,7 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 | ![][flag_CN] [Flowerbell](https://osu.ppy.sh/users/2066337) | ![][flag_CN] [Guangzhou Rural Commercial Bank](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%86%9C%E6%9D%91%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C) |
 | ![][flag_CN] [Les Fleurs](https://osu.ppy.sh/users/14152434) | ![][flag_CN] [China Zheshang Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%B5%99%E5%95%86%E9%93%B6%E8%A1%8C) |
 | ![][flag_FR] [pomroz](https://osu.ppy.sh/users/6410878) | ![][flag_FR] [BNP Paribas S.A.](https://en.wikipedia.org/wiki/BNP_Paribas) |
-| ![][flag_CN] [GalaxyEmpire](https://osu.ppy.sh/users/10246790) | Rural Commercial Bank of Caoxian |
+| ![][flag_CN] [GalaxyEmpire](https://osu.ppy.sh/users/10246790) | ![][flag_CN] Rural Commercial Bank of Caoxian |
 | ![][flag_FR] [Kheops](https://osu.ppy.sh/users/18607342) | ![][flag_FR] [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
 | ![][flag_US] [Infric](https://osu.ppy.sh/users/15842915) | ![][flag_US] [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
 | ![][flag_CN] [lolol727](https://osu.ppy.sh/users/15030466) | ![][flag_CN] The Heaven and Hell Bank[^5] |

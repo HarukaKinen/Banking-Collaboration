@@ -12,6 +12,50 @@ This is a community project. Any player mentioned below **is not** associated wi
 
 Sort by join time
 
+### List of members
+
+| Player | Bank |
+|:-:|:-:|
+| ![][flag_CN] [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) | ![][flag_CN] [Bank of China Limited](https://en.wikipedia.org/wiki/Bank_of_China) |
+| ![][flag_CN] [45697](https://osu.ppy.sh/users/13852795) | ![][flag_CN] [Bank of Dongguan](https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8E%9E%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [RandomPsion](https://osu.ppy.sh/users/13255728) | ![][flag_CN] [China Merchants Bank Co., Ltd.](https://en.wikipedia.org/wiki/China_Merchants_Bank) |
+| ![][flag_CN] [-Shamiko-](https://osu.ppy.sh/users/5844899) | ![][flag_CN] [Shengjing Bank](https://zh.wikipedia.org/wiki/%E7%9B%9B%E4%BA%AC%E9%93%B6%E8%A1%8C) |
+| ![][flag_CH] [Shameimaru Aya](https://osu.ppy.sh/users/17335266) | ![][flag_CN] [Bank of Shanghai](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [nakuru](https://osu.ppy.sh/users/17030076) | ![][flag_CN] [Bank of Chengdu](https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [Chazz](https://osu.ppy.sh/users/9392848) | ![][flag_HK] [OCBC Wing Hang Bank (Hong Kong)](https://en.wikipedia.org/wiki/OCBC_Wing_Hang_Bank) |
+| ![][flag_CN] [KaRe7mi](https://osu.ppy.sh/users/8012734) | ![][flag_CN] [Xiamen Bank](https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [BakaSnow](https://osu.ppy.sh/users/2481197) | ![][flag_JP] [Sumitomo Mitsui Banking Corporation](https://en.wikipedia.org/wiki/Sumitomo_Mitsui_Banking_Corporation) |
+| ![][flag_CN] [Ruby_](https://osu.ppy.sh/users/12956332) | ![][flag_CN] [Postal Savings Bank of China Co., Ltd.](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%82%A8%E8%93%84%E9%93%B6%E8%A1%8C) |
+| ![][flag_HK] [stllok](https://osu.ppy.sh/users/14817468) | ![][flag_HK] [Bank of China (Hong Kong) Limited](https://en.wikipedia.org/wiki/Bank_of_China_(Hong_Kong)) |
+| ![][flag_TW] [[Paw]OchiKouri](https://osu.ppy.sh/users/8693179) | ![][flag_TW] [Mega International Commercial Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E5%85%86%E8%B1%90%E5%9C%8B%E9%9A%9B%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8C) |
+| ![][flag_CN] [Guozi on Osu](https://osu.ppy.sh/users/8692802) | ![][flag_US] [Maze Bank of Los Santos](https://gta.fandom.com/wiki/Maze_Bank)[^1] |
+| ![][flag_CN] [-[Yuzi Mo]-](https://osu.ppy.sh/users/9830401) | ![][flag_MY] [CIMB Group](https://en.wikipedia.org/wiki/CIMB) |
+| ![][flag_CN] [ywwuyi](https://osu.ppy.sh/users/2699015) | ![][flag_HK] [The Hongkong and Shanghai Banking Corporation Limited](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%B5%B7%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C) |
+| ![][flag_JP] [\[GS\]hina](https://osu.ppy.sh/users/20040607) | ![][flag_JP] [Mizuho Bank, Ltd.](https://en.wikipedia.org/wiki/Mizuho_Bank) |
+| ![][flag_JP] [Kevin0036](https://osu.ppy.sh/users/24004891) | ![][flag_JP] [MUFG Bank, Ltd.](https://en.wikipedia.org/wiki/MUFG_Bank)
+| ![][flag_CN] [Sakurai_Shiyi](https://osu.ppy.sh/users/11715204) | ![][flag_CN] [Guangdong Rural Credit Union](http://www.gdrcu.com/) |
+| ![][flag_CN] [feifeiis](https://osu.ppy.sh/users/4734497) | ![][flag_DE] [Deutsche Bank AG](https://en.wikipedia.org/wiki/Deutsche_Bank) |
+| ![][flag_CN] [7White](https://osu.ppy.sh/users/17159216) | ![][flag_CN] [China Construction Bank Corporation](https://en.wikipedia.org/wiki/China_Construction_Bank)
+| ![][flag_CN] [OsmiumD](https://osu.ppy.sh/users/10479369) | ![][flag_US] [JPMorgan Chase Bank, N.A.](https://en.wikipedia.org/wiki/Chase_Bank)
+| ![][flag_JP] [SnowyNight](https://osu.ppy.sh/users/19217915) | ![][flag_JP] Tokyo Chuo Banking Corporation[^2] |
+| ![][flag_CN] [SugerSakiE](https://osu.ppy.sh/users/15091523) | ![][flag_RU] [VTB BANK (PJSC)](https://en.wikipedia.org/wiki/VTB_Bank) |
+| ![][flag_CN] [Dana Iclucia](https://osu.ppy.sh/users/13184288) | ![][flag_JP] [SoftBank Group Corp.](https://en.wikipedia.org/wiki/SoftBank_Group)[^3] |
+| ![][flag_CN] [mike233333](https://osu.ppy.sh/users/15436106) | ![][flag___] [Pokémon Bank](https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon#Pok%C3%A9mon_Bank)[^4] |
+| ![][flag_CN] [kukupa](https://osu.ppy.sh/users/15525823) | ![][flag_CN] [Bank of Guangzhou](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [AuroraE](https://osu.ppy.sh/users/16158742) | ![][flag_CN] [Bank of Qingdao](https://osu.ppy.sh/users/16158742) |
+| ![][flag_DE] [Trinoline](https://osu.ppy.sh/users/3550729) | ![][flag_DE] [ODDO BHF](https://en.wikipedia.org/wiki/ODDO_BHF) |
+| ![][flag_CN] [__-](https://osu.ppy.sh/users/14445292) | ![][flag_CN] [Agricultural Bank of China](https://en.wikipedia.org/wiki/Agricultural_Bank_of_China) |
+| ![][flag_CN] [HDMI](https://osu.ppy.sh/users/4313716) | ![][flag_CN] [WeBank Co., Ltd.](https://zh.wikipedia.org/wiki/%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [MDarkSanyo](https://osu.ppy.sh/users/1759858) | ![][flag_CN] [Industrial and Commercial Bank of China Limited](https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China) |
+| ![][flag_CN] [Flowerbell](https://osu.ppy.sh/users/2066337) | ![][flag_CN] [Guangzhou Rural Commercial Bank](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%86%9C%E6%9D%91%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C) |
+| ![][flag_CN] [Les Fleurs](https://osu.ppy.sh/users/14152434) | ![][flag_CN] [China Zheshang Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%B5%99%E5%95%86%E9%93%B6%E8%A1%8C) |
+| ![][flag_FR] [pomroz](https://osu.ppy.sh/users/6410878) | ![][flag_FR] [BNP Paribas S.A.](https://en.wikipedia.org/wiki/BNP_Paribas) |
+| ![][flag_CN] [GalaxyEmpire](https://osu.ppy.sh/users/10246790) | ![][flag_CN] Rural Commercial Bank of Caoxian |
+| ![][flag_FR] [Kheops](https://osu.ppy.sh/users/18607342) | ![][flag_FR] [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
+| ![][flag_US] [Infric](https://osu.ppy.sh/users/15842915) | ![][flag_US] [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
+| ![][flag_CN] [lolol727](https://osu.ppy.sh/users/15030466) | ![][flag_CN] The Heaven and Hell Bank[^5] |
+| ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
+
 ### Icon
 
 All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
@@ -55,50 +99,6 @@ All image files are stored in [Image folder](Image/). Sort by SWIFT Code.
 [![](Image/BOFAUS.png)](https://osu.ppy.sh/users/15842915)
 [![](Image/HABCCN.png)](https://osu.ppy.sh/users/15030466)
 [![](Image/XJBCCN.png)](https://osu.ppy.sh/users/13999223)
-
-### List of members
-
-| Player | Bank |
-|:-:|:-:|
-| ![][flag_CN] [Kotoki 1 3 3 7](https://osu.ppy.sh/users/6403393) | ![][flag_CN] [Bank of China Limited](https://en.wikipedia.org/wiki/Bank_of_China) |
-| ![][flag_CN] [45697](https://osu.ppy.sh/users/13852795) | ![][flag_CN] [Bank of Dongguan](https://zh.wikipedia.org/wiki/%E4%B8%9C%E8%8E%9E%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [RandomPsion](https://osu.ppy.sh/users/13255728) | ![][flag_CN] [China Merchants Bank Co.,Ltd](https://en.wikipedia.org/wiki/China_Merchants_Bank) |
-| ![][flag_CN] [-Shamiko-](https://osu.ppy.sh/users/5844899) | ![][flag_CN] [Shengjing Bank](https://zh.wikipedia.org/wiki/%E7%9B%9B%E4%BA%AC%E9%93%B6%E8%A1%8C) |
-| ![][flag_CH] [Shameimaru Aya](https://osu.ppy.sh/users/17335266) | ![][flag_CN] [Bank of Shanghai](https://zh.wikipedia.org/wiki/%E4%B8%8A%E6%B5%B7%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [nakuru](https://osu.ppy.sh/users/17030076) | ![][flag_CN] [Bank of Chengdu](https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [Chazz](https://osu.ppy.sh/users/9392848) | ![][flag_HK] [OCBC Wing Hang Bank (Hong Kong)](https://en.wikipedia.org/wiki/OCBC_Wing_Hang_Bank) |
-| ![][flag_CN] [KaRe7mi](https://osu.ppy.sh/users/8012734) | ![][flag_CN] [Xiamen Bank](https://zh.wikipedia.org/wiki/%E5%8E%A6%E9%97%A8%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [BakaSnow](https://osu.ppy.sh/users/2481197) | ![][flag_JP] [Sumitomo Mitsui Banking Corporation](https://en.wikipedia.org/wiki/Sumitomo_Mitsui_Banking_Corporation) |
-| ![][flag_CN] [Ruby_](https://osu.ppy.sh/users/12956332) | ![][flag_CN] [Postal Savings Bank of China Co., Ltd.](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%E5%82%A8%E8%93%84%E9%93%B6%E8%A1%8C) |
-| ![][flag_HK] [stllok](https://osu.ppy.sh/users/14817468) | ![][flag_HK] [Bank of China (Hong Kong) Limited](https://en.wikipedia.org/wiki/Bank_of_China_(Hong_Kong)) |
-| ![][flag_TW] [[Paw]OchiKouri](https://osu.ppy.sh/users/8693179) | ![][flag_TW] [Mega International Commercial Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E5%85%86%E8%B1%90%E5%9C%8B%E9%9A%9B%E5%95%86%E6%A5%AD%E9%8A%80%E8%A1%8C) |
-| ![][flag_CN] [Guozi on Osu](https://osu.ppy.sh/users/8692802) | ![][flag_US] [Maze Bank of Los Santos](https://gta.fandom.com/wiki/Maze_Bank)[^1] |
-| ![][flag_CN] [-[Yuzi Mo]-](https://osu.ppy.sh/users/9830401) | ![][flag_MY] [CIMB Group](https://en.wikipedia.org/wiki/CIMB) |
-| ![][flag_CN] [ywwuyi](https://osu.ppy.sh/users/2699015) | ![][flag_HK] [The Hongkong and Shanghai Banking Corporation Limited](https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E4%B8%8A%E6%B5%B7%E6%BB%99%E8%B1%90%E9%8A%80%E8%A1%8C) |
-| ![][flag_JP] [\[GS\]hina](https://osu.ppy.sh/users/20040607) | ![][flag_JP] [Mizuho Bank, Ltd.](https://en.wikipedia.org/wiki/Mizuho_Bank) |
-| ![][flag_JP] [Kevin0036](https://osu.ppy.sh/users/24004891) | ![][flag_JP] [MUFG Bank Ltd.](https://en.wikipedia.org/wiki/MUFG_Bank)
-| ![][flag_CN] [Sakurai_Shiyi](https://osu.ppy.sh/users/11715204) | ![][flag_CN] [Guangdong Rural Credit Union](http://www.gdrcu.com/) |
-| ![][flag_CN] [feifeiis](https://osu.ppy.sh/users/4734497) | ![][flag_DE] [Deutsche Bank AG](https://en.wikipedia.org/wiki/Deutsche_Bank) |
-| ![][flag_CN] [7White](https://osu.ppy.sh/users/17159216) | ![][flag_CN] [China Construction Bank Corporation](https://en.wikipedia.org/wiki/China_Construction_Bank)
-| ![][flag_CN] [OsmiumD](https://osu.ppy.sh/users/10479369) | ![][flag_US] [JPMorgan Chase Bank, N.A.](https://en.wikipedia.org/wiki/Chase_Bank)
-| ![][flag_JP] [SnowyNight](https://osu.ppy.sh/users/19217915) | ![][flag_JP] Tokyo Chuo Banking Corporation[^2] |
-| ![][flag_CN] [SugerSakiE](https://osu.ppy.sh/users/15091523) | ![][flag_RU] [VTB BANK (PJSC)](https://en.wikipedia.org/wiki/VTB_Bank) |
-| ![][flag_CN] [Dana Iclucia](https://osu.ppy.sh/users/13184288) | ![][flag_JP] [SoftBank Group Corp.](https://en.wikipedia.org/wiki/SoftBank_Group)[^3] |
-| ![][flag_CN] [mike233333](https://osu.ppy.sh/users/15436106) | ![][flag___] [Pokémon Bank](https://en.wikipedia.org/wiki/Gameplay_of_Pok%C3%A9mon#Pok%C3%A9mon_Bank)[^4] |
-| ![][flag_CN] [kukupa](https://osu.ppy.sh/users/15525823) | ![][flag_CN] [Bank of Guangzhou](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [AuroraE](https://osu.ppy.sh/users/16158742) | ![][flag_CN] [Bank of Qingdao](https://osu.ppy.sh/users/16158742) |
-| ![][flag_DE] [Trinoline](https://osu.ppy.sh/users/3550729) | ![][flag_DE] [ODDO BHF](https://en.wikipedia.org/wiki/ODDO_BHF) |
-| ![][flag_CN] [__-](https://osu.ppy.sh/users/14445292) | ![][flag_CN] [Agricultural Bank of China](https://en.wikipedia.org/wiki/Agricultural_Bank_of_China) |
-| ![][flag_CN] [HDMI](https://osu.ppy.sh/users/4313716) | ![][flag_CN] [WeBank Co., Ltd.](https://zh.wikipedia.org/wiki/%E5%BE%AE%E4%BC%97%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [MDarkSanyo](https://osu.ppy.sh/users/1759858) | ![][flag_CN] [Industrial and Commercial Bank of China Limited](https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China) |
-| ![][flag_CN] [Flowerbell](https://osu.ppy.sh/users/2066337) | ![][flag_CN] [Guangzhou Rural Commercial Bank](https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%86%9C%E6%9D%91%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C) |
-| ![][flag_CN] [Les Fleurs](https://osu.ppy.sh/users/14152434) | ![][flag_CN] [China Zheshang Bank Co., Ltd.](https://zh.wikipedia.org/wiki/%E6%B5%99%E5%95%86%E9%93%B6%E8%A1%8C) |
-| ![][flag_FR] [pomroz](https://osu.ppy.sh/users/6410878) | ![][flag_FR] [BNP Paribas S.A.](https://en.wikipedia.org/wiki/BNP_Paribas) |
-| ![][flag_CN] [GalaxyEmpire](https://osu.ppy.sh/users/10246790) | ![][flag_CN] Rural Commercial Bank of Caoxian |
-| ![][flag_FR] [Kheops](https://osu.ppy.sh/users/18607342) | ![][flag_FR] [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole) |
-| ![][flag_US] [Infric](https://osu.ppy.sh/users/15842915) | ![][flag_US] [Bank of America](https://en.wikipedia.org/wiki/Bank_of_America) |
-| ![][flag_CN] [lolol727](https://osu.ppy.sh/users/15030466) | ![][flag_CN] The Heaven and Hell Bank[^5] |
-| ![][flag_CN] [ShandenOnter](https://osu.ppy.sh/users/13999223) | ![][flag_CN] [Bank of Xinjiang CO.,Ltd.](https://zh.wikipedia.org/wiki/%E6%96%B0%E7%96%86%E9%93%B6%E8%A1%8C) |
 
 ### Profile BBCode link-in
 
